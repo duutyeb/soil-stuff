@@ -16,5 +16,5 @@ execute:
 ---
 
 ## About me
-
+![Smile](smile.png)
 [lab_7](Lab_7.html)
