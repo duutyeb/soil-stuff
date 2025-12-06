@@ -1,0 +1,22 @@
+---
+title: "index.qmd"
+author: "Madlyn"
+format: 
+  html:
+    toc: true
+    toc_float: true
+    embed-resources: true
+warning: false
+message: false
+theme: sandstone
+editor: visual
+execute: 
+  warning: false
+  message: false
+---
+
+## About me
+
+![Smile](smile.png)
+
+[lab_7](Lab_7.html)
